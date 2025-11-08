@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hajdub_test1", "hajdub_test1\hajdub_test1.csproj", "{CE9F0DC1-89B4-427B-9156-8C3C0C0C35FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hajdub_test1Tests", "hajdub_test1Tests\hajdub_test1Tests.csproj", "{E1310C59-9072-494D-A9E2-841A8E2C1516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9F0DC1-89B4-427B-9156-8C3C0C0C35FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9F0DC1-89B4-427B-9156-8C3C0C0C35FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9F0DC1-89B4-427B-9156-8C3C0C0C35FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9F0DC1-89B4-427B-9156-8C3C0C0C35FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1310C59-9072-494D-A9E2-841A8E2C1516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1310C59-9072-494D-A9E2-841A8E2C1516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1310C59-9072-494D-A9E2-841A8E2C1516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1310C59-9072-494D-A9E2-841A8E2C1516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB0554A-BF36-4F7D-A1A7-2ACB79B9063E}
+	EndGlobalSection
+EndGlobal
